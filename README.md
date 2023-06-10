@@ -13,14 +13,14 @@ The Rate Limiter package is a middleware for Express applications that helps lim
 To install the Rate Limiter package, use the following command:
 
 ```shell
-npm install rate-limiter-package
+npm install rate-limiter
 ```
 
 ## Usage
 
 ```javascript
 const express = require("express");
-const rateLimiter = require("rate-limiter-package");
+const rateLimiter = require("rate-limiter");
 const app = express();
 
 const port = 3000;
