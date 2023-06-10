@@ -1,5 +1,5 @@
 {
-  "name": "rate-limiter",
+  "name": "rate-limiter-package",
   "version": "1.0.0",
   "description": "The rate-limiter package helps developers limit the number of requests made to an API within a givin time frame.",
   "main": "index.js",
