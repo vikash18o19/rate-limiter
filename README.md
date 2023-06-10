@@ -53,7 +53,8 @@ In the above example, we set the rate limiter options to allow a maximum of 5 re
 
 ## Contributing
 
-Contributions to the Rate Limiter package are welcome! If you encounter any issues, have suggestions, or would like to contribute improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
+Contributions to the Rate Limiter package are welcome! If you encounter any issues, have suggestions, or would like to contribute improvements.
+please feel free to open an issue or submit a pull request on the GitHub repository.
 
 ## License
 
